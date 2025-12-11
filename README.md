@@ -1,2 +1,2 @@
-# Assignment-on-Programming-Paradigms
+# Assignment
 Research on the six(6) Paradigms of Programming
